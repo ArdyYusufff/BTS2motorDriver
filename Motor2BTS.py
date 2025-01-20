@@ -9,8 +9,8 @@ L_EN1 = 14 # Left Enable
 R_EN1 = 15 # Right Enable
 
 # Motor 2
-RPWM2 = 4
-LPWM2 = 17
+RPWM2 = 17
+LPWM2 = 4
 L_EN2 = 18
 R_EN2 = 23
 
